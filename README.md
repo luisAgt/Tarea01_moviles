@@ -1,17 +1,17 @@
 # Investigación e Implementación de Model Context Protocol (MCP)
 
-## 👤 Datos de Identificación
-- **Nombre Completo:** [Tu Nombre Completo Aquí]
-- **Número de Boleta:** [Tu Número de Boleta Aquí]
-- **Grupo:** [Tu Grupo Aquí]
+## PORTADA
+- **Nombre Completo:** Agustin Fuentes Luis Angel
+- **Número de Boleta:** 2024630134
+- **Grupo:** 7CV4
 - **Fecha de Entrega:** 21 de septiembre de 2026
 
 ---
 
-## 📋 Resumen de la Actividad
+## RESUMEN
 En esta actividad se investigó la evolución del acceso de la inteligencia artificial a entornos locales, pasando de ser modelos aislados en la nube a agentes capaces de interactuar directamente con el entorno de desarrollo mediante **Model Context Protocol (MCP)**. Además, se realizó la instalación práctica de un servidor MCP de sistema de archivos (`filesystem`), verificando su funcionamiento, límites de seguridad y aplicando las mejores prácticas de documentación.
 
-### 📚 Índice de la Carpeta `docs/`
+### INDICE `docs/`
 - [01. Evolución de los Modelos de Lenguaje](docs/01-evolucion-de-los-modelos.md)
 - [02. El Problema del Aislamiento](docs/02-el-problema-del-aislamiento.md)
 - [03. MCP Frente a una API Tradicional](docs/03-mcp-frente-a-una-api.md)
@@ -22,7 +22,7 @@ En esta actividad se investigó la evolución del acceso de la inteligencia arti
 
 ---
 
-## 📊 Tabla Comparativa: MCP frente a una API Tradicional
+## Tabla Comparativa: MCP frente a una API Tradicional
 
 | Criterio | API Tradicional (REST / gRPC) | Model Context Protocol (MCP) |
 | :--- | :--- | :--- |
@@ -37,10 +37,10 @@ En esta actividad se investigó la evolución del acceso de la inteligencia arti
 
 ---
 
-## 🛠️ Instrucciones de Instalación Paso a Paso (Reproducible en Máquina Limpia)
+## Instrucciones de Instalación Paso a Paso
 
 ### Entorno de Prueba
-- **Sistema Operativo:** macOS Sonoma 14.5 / Ubuntu 22.04 LTS / Windows 11 Home (especifica el tuyo)
+- **Sistema Operativo:** macOS Sonoma 14.5 / Ubuntu 22.04 LTS / Windows 11 Home 
 - **Node.js:** v20.11.0 (LTS)
 - **npx:** v10.2.4
 - **Cliente MCP:** Claude Desktop (v0.7.1) / VS Code con extensión Roo Code (v3.2.0)
@@ -52,5 +52,7 @@ En esta actividad se investigó la evolución del acceso de la inteligencia arti
 
 1. **Clonar el repositorio:**
    ```bash
-   git clone [https://github.com/TU_USUARIO/TU_REPOSITORIO.git](https://github.com/TU_USUARIO/TU_REPOSITORIO.git)
-   cd TU_REPOSITORIO
+   
+   git clone [https://github.com/luisAgt/Tarea01_moviles.git](https://github.com/luisAgt/Tarea01_moviles.git)
+
+   cd [ubicacion_repositorio]
